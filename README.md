@@ -18,12 +18,12 @@
 
 ## 🧠 Featured AI & Data Science Projects
 
-### [🚁 Search & Rescue: Multi-Agent Reinforcement Learning](#https://github.com/mekkUr13/Student_search)
+### [🚁 Search & Rescue: Multi-Agent Reinforcement Learning](https://github.com/mekkUr13/Student_search)
 **Tech:** Python, PyTorch, TorchRL, PettingZoo, Docker
 - **Overview:** An advanced reinforcement learning simulation where cooperative rescue agents locate and escort victims to safety zones while navigating obstacles.
 - **Highlights:** Implemented MAPPO (Multi-Agent PPO) with Centralized Training and Decentralized Execution (CTDE). Incorporated curriculum learning, partial observability, and energy management systems.
 
-### [🧮 AI & Data Science Mini-Projects](#https://github.com/mekkUr13/AI_and_DS_mini_projects)
+### [🧮 AI & Data Science Mini-Projects](https://github.com/mekkUr13/AI_and_DS_mini_projects)
 **Tech:** Python, Jupyter, PyTorch, Pandas, Scikit-learn
 - **Overview:** A curated collection of coursework and personal projects demonstrating hands-on experience across the machine learning lifecycle.
 - **Highlights:** 
@@ -36,17 +36,17 @@
 
 ## 💻 Software Engineering & Data Architecture
 
-### [⚽ Football Manager Simulator](#https://github.com/mekkUr13/Football_Manager_Game)
+### [⚽ Football Manager Simulator](https://github.com/mekkUr13/Football_Manager_Game)
 **Tech:** Python 3.10+, Pygame-CE, TCP Sockets & Threading, SQLAlchemy, Pandas, NumPy
 - **Overview:** A comprehensive multiplayer Football Manager simulator serving as my BSc Thesis.
 - **Highlights:** Built a custom multi-threaded TCP server architecture and a math/stats-heavy underlying match simulation engine leveraging Pandas and NumPy. Features an interactive GUI and persistent database storage via an ORM.
 
-### [🤖 Warehouse Robot Routing Simulation](#https://github.com/mekkUr13/Software_Technology_Project)
+### [🤖 Warehouse Robot Routing Simulation](https://github.com/mekkUr13/Software_Technology_Project)
 **Tech:** C#, .NET 8.0, WPF (Windows Presentation Foundation), MVVM, NUnit
 - **Overview:** A desktop application simulating autonomous robots navigating a warehouse to deliver packages.
 - **Highlights:** Focuses heavily on cooperative multi-agent pathfinding (A*, BFS, DFS). Includes real-time simulation visualization, collision-free route mapping, and log-based scenario replays within a strict MVVM software architecture.
 
-### [🚀 Backend API Projects (Culinary Institute)](#https://github.com/mekkUr13/Backend_projects)
+### [🚀 Backend API Projects (Culinary Institute)](https://github.com/mekkUr13/Backend_projects)
 **Tech:** Python, FastAPI, Pydantic, Uvicorn
 - **Overview:** A fast, responsive RESTful API built to manage courses, instructors, and student profiles for a chef-training institute.
 - **Highlights:** Features a highly structured architecture, file-based JSON persistence, robust Pydantic data validation, and automated Swagger UI documentation.
