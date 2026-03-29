@@ -19,9 +19,6 @@
 - **Proactive & Self-Driven Learning:** Highly motivated and enthusiastic about continuously researching new technologies, adapting to new challenges, and growing professionally.
 - **Analytical Problem Solving:** Strong analytical mindset with a drive to identify operational inefficiencies and transform Proof of Concept (PoC) designs into scalable, production-ready systems.
 - **Effective Communication:** Confident fluency in English with a professional attitude, capable of clear documentation, reporting, and assessing relevant AI solutions for specific business use cases.
-- **Innovation & Operational Efficiency:** Dedicated to identifying areas for improvement through automation and conceptualizing practical PoC solutions that drive business efficiency.
-- **Agile Methodology & Team Dynamics:** Comfortable operating in iterative, agile (SCRUM) environments, and enthusiastically contributing to a positive, team-building culture.
-- **Responsible AI & Business Adaptability:** Mindful of ethical AI, data governance, and eager to understand domain-specific constraints (e.g., finance, auditing) to tailor technical solutions to real-world business requirements.
 
 ---
 
